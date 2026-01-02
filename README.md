@@ -18,10 +18,9 @@ Currently focusing on:
 
 ---
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifabdulbhelim@gmail.com)
+## 📬 Contact Me and 🌐 Socials
+
+📧 Email: [asifabdulbhelim@gmail.com](mailto:asifabdulbhelim@gmail.com)
 
 ---
 
@@ -33,13 +32,15 @@ Currently focusing on:
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 🚀 Current Focus
+- Learning Python fundamentals and problem-solving
+- Building small web projects using HTML, CSS & JavaScript
+- Exploring AI concepts from the school syllabus
+- Improving Git & GitHub workflow
 
-## 📊 GitHub Stats
-## 📊 GitHub Stats
+## 🧩 Projects in Progress
+- Python Basics Practice
+- MoodMeal – Mood-based meal suggestion app
+- School AI Assignments
 
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asif-in786&show_icons=true&theme=dark&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Asif-in786&theme=dark&date_format=j%20M%5B%20Y%5D)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-in786&layout=compact&theme=dark)
 

@@ -35,8 +35,11 @@ Currently focusing on:
 ---
 
 ## 📊 GitHub Stats
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asif-in786&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Asif-in786&theme=tokyonight)
+![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asif-in786&show_icons=true&theme=dark&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-in786&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Asif-in786&theme=dark&date_format=j%20M%5B%20Y%5D)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-in786&layout=compact&theme=dark)
+
